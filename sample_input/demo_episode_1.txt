@@ -1,0 +1,34 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A fictional sample used to smoke-test the parser.
+CONTINUITY NOTES: No prior story context is required.
+
+SCENE 01
+Scene heading: INT. HALL - NIGHT
+Scene start: 00:00:00.00
+Scene end: 00:01:05.00
+
+Actions and dialogue:
+
+**WOMAN (Terrified):**
+Start: 00:00:00.00 | End: 00:00:02.00
+"Stop! You cannot take it!"
+
+**ACTION:**
+Start: 00:00:02.00 | End: 00:00:03.50
+A masked stranger smashes the glass case and grabs the silver crown.
+
+**SOUND FX:**
+Start: 00:00:02.20 | End: 00:00:03.20
+A sharp crash and shattering glass ring through the hall.
+
+**MAN (Cold):**
+Start: 00:00:04.00 | End: 00:00:06.00
+"You should have stayed away."
+
+**WOMAN (Defiant):**
+Start: 00:00:55.00 | End: 00:00:58.00
+"Then tell them what you did."
+
+**ACTION:**
+Start: 00:00:58.00 | End: 00:01:05.00
+The man turns toward the open doors as the guards arrive.
